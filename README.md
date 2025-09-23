@@ -6,8 +6,8 @@ Telegram-бот для скачивания видео из TikTok по ссыл
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your_username/tiktok-downloader-bot.git
-cd tiktok-downloader-bot
+git clone https://github.com/Lime303/ttbot
+cd ttbot /// Назаание может отличаться в зависимости от обновнений 
 
 # Создание виртуального окружения
 python -m venv venv

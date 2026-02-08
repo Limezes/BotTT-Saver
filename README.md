@@ -7,7 +7,7 @@ Telegram-бот для скачивания видео из TikTok по ссыл
 ```bash
 # Клонирование репозитория
 git clone https://github.com/Lime303/ttbot
-cd ttbot /// Название  может отличаться в зависимости от обновнений 
+cd ttbot  # Название может отличаться в зависимости от обновлений
 
 # Создание виртуального окружения
 python -m venv venv
@@ -20,5 +20,6 @@ venv\Scripts\activate
 
 # Установка зависимостей
 pip install -r requirements.txt
-запуск бота: 
+
+# Запуск бота
 python bot.py
